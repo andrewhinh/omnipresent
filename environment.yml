@@ -1,0 +1,7 @@
+name: omnipresent
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.5
+  - pip=23.2.1
